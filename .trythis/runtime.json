@@ -1,0 +1,29 @@
+{
+  "schema": "runtime-manifest/v1",
+  "provider": "adopted",
+  "repository": "ws-b6b2ee7a26a0cdcb",
+  "commit": "generated",
+  "language": "Unknown",
+  "framework": null,
+  "runtime": "unknown",
+  "package_manager": null,
+  "workspace": "ws-b6b2ee7a26a0cdcb",
+  "install": "install dependencies",
+  "build": null,
+  "start": "run",
+  "health": "/health",
+  "port": 3000,
+  "environment": {
+    "required": [],
+    "optional": [
+      "PORT"
+    ],
+    "detected": []
+  },
+  "capabilities": [
+    "adopted",
+    "portable"
+  ],
+  "confidence": 0.97,
+  "runtime_id": "ws-b6b2ee7a26a0cdcb-unknown"
+}
