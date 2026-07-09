@@ -1,0 +1,17 @@
+{
+  "build_command": null,
+  "detected": {
+    "bun_version": "unknown",
+    "node_version": "unknown",
+    "pnpm_version": "unknown",
+    "python_version": "unknown",
+    "uv_support": true
+  },
+  "firecracker_snapshot_id": "snapshot-ws-b6b2ee7a26a0cdcb",
+  "health_endpoint": "/health",
+  "package_manager": null,
+  "runtime": "unknown",
+  "schema": "workspace.manifest/v1",
+  "start_command": "run",
+  "workspace": "ws-b6b2ee7a26a0cdcb"
+}
